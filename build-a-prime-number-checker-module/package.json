@@ -1,0 +1,16 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Build a Prime Number Checker Module",
+  "keywords": [
+    "Prime",
+    "number"
+  ],
+  "license": "MIT",
+  "author": "Aureline Sonia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
